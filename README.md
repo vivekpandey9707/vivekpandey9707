@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vivek Pandey</h1>
-<h3 align="center">A Passionate Java Developer | Crafting My World on Your Device</h3>
+<h3 align="center">A Passionate MERN Developer | Crafting My World on Your Device</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekpandey9707&label=Profile%20views&color=0e75b6&style=flat" alt="vivekpandey9707" /> </p>
 
-- 👨‍💻 I’m currently learning **Mern stack**
+- 👨‍💻 I’m currently learning **Machine learning**
 
 - 📫 How to reach me **vivekpandey9834@gmail.com/9834100831**
 
